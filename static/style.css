@@ -4,7 +4,7 @@ html, body {
 }
 
 #particles-js{
-  background-image: url('img/bg1.jpg');
+  background-image: url('img/bg.jpg');
   height: 100vh;
   position:fixed;
   width: 100%;
